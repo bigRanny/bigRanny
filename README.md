@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @bigRanny
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in everything tech and programming
+- 🌱 I’m currently learning advance cyber security and networking 
+-
+- 📫 reach me on gmail @cookwoman222@gmail.com
 
-<!---
-bigRanny/bigRanny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have alot going on but nothing to post yet
+
